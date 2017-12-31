@@ -1,3 +1,3 @@
 # hello-world
-Just another test
+Just another test.
 I have a test.
